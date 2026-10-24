@@ -1,7 +1,7 @@
 ## HyperLeaf2024, Pixel Set Deep Sets with Regional Attention Pooling
 
 ## Competition
-HyperLeaf2024 is a Kaggle competition (link: https://www.kaggle.com/competitions/HyperLeaf2024) built on hyperspectral images of wheat flag leaves. 2410 images in total, 1590 for training (24 field plots) and 820 for testing (12 different plots, never seen in training). The goal is to predict 8 targets per image from the raw hyperspectral cube: 3 continuous physiological traits (GrainWeight, Gsw, PhiPS2), Fertilizer level (0.0, 0.5 or 1.0) and cultivar (one hot, 4 classes). The competition itself ran and closed in 2024. This work was done in 2026, after closing, so it was never a counted entry on the leaderboard.
+HyperLeaf2024 is a Kaggle competition (https://www.kaggle.com/competitions/HyperLeaf2024) built on hyperspectral images of wheat flag leaves. 2410 images in total, 1590 for training (24 field plots) and 820 for testing (12 different plots, never seen in training). The goal is to predict 8 targets per image from the raw hyperspectral cube: 3 continuous physiological traits (GrainWeight, Gsw, PhiPS2), Fertilizer level (0.0, 0.5 or 1.0) and cultivar (one hot, 4 classes). The competition itself ran and closed in 2024. This work was done in 2026, after closing, so it was never a counted entry on the leaderboard.
 
 ## Approach
 
